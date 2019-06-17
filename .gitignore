@@ -13,4 +13,5 @@
 !*.md
 
 # Don't ignore github files
-!.github/**/*
+!/.github
+!/.github/**
