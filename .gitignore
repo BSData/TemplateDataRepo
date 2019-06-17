@@ -15,3 +15,6 @@
 # Don't ignore github files
 !/.github
 !/.github/**
+
+# Don't ignore .yml for CI build definitions
+!*.yml
