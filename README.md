@@ -2,10 +2,10 @@ Template Data Repo
 ==================
 
 [![GitHub release](https://img.shields.io/github/release/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases/latest)
-![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/TemplateDataRepo/latest.svg?style=flat-square)
-[![Open Bug issues](https://img.shields.io/github/issues/bsdata/TemplateDataRepo/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/TemplateDataRepo/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/TemplateDataRepo/latest.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases)
+[![Open Bug issues](https://img.shields.io/github/issues/BSData/TemplateDataRepo/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/TemplateDataRepo/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 [![GitHub contributors](https://img.shields.io/github/contributors/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/graphs/contributors)
-![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/TemplateDataRepo.svg?style=flat-square)
+[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/pulse/monthly)
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://discord.gg/KqPVhds)
 
