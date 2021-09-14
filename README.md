@@ -31,4 +31,4 @@ Great, thank you! Please [Report a bug][bug report] - you can also suggest enhan
 * [BattleScribe app homepage](https://www.battlescribe.net/)
 
 [BSData.net]: https://www.bsdata.net/
-[bug report]: https://github.com/BSData/TemplateDataRepo/issues
+[bug report]: https://github.com/BSData/TemplateDataRepo/issues/new/choose
