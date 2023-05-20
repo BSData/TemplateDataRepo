@@ -4,6 +4,7 @@ name: Publish catpkg
 on:
   release:
     types: [ published, edited ]
+permissions: write-all
 jobs:
   publish:
     runs-on: ubuntu-latest
